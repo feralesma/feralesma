@@ -40,7 +40,10 @@ feralesma/feralesma is a ✨special ✨ repository that you can use to add a REA
    🌐 Web Development, ☁ Cloud, 📊 Data Science, 🧠🤖 Artificial Intelligence, and more ...
   </p>
 </div>
+<br>
+
 ---
+
 <h3> Languages and tools </h3>
 <div align="center" valign="top">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
